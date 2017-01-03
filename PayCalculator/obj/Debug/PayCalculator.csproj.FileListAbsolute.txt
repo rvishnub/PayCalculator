@@ -1,0 +1,6 @@
+C:\Users\Renuka\Documents\Visual Studio 2015\Projects\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\Renuka\Documents\Visual Studio 2015\Projects\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\Renuka\Documents\Visual Studio 2015\Projects\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\Renuka\Documents\Visual Studio 2015\Projects\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Renuka\Documents\Visual Studio 2015\Projects\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\Renuka\Documents\Visual Studio 2015\Projects\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb
